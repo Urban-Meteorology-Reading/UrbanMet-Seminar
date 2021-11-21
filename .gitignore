@@ -168,3 +168,6 @@ Temporary Items
 
 # local
 .vscode/
+
+# sphinx-doc
+source/_build/
