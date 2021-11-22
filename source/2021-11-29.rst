@@ -1,0 +1,22 @@
+2021-11-29
+----------
+
+
+:Speaker: Dr Robert Schoetter (Meteo France)
+
+
+:Time: 09:30 - 10:30, 29th November 2021 (Monday)
+
+
+:Location:
+    - 1L43, Met
+    - `Teams (online) <https://teams.microsoft.com/l/meetup-join/19%3ae6fedab7508a4fedbe9d9697d8e58b10%40thread.skype/1636975058583?context=%7b%22Tid%22%3a%224ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f%22%2c%22Oid%22%3a%22c5fe75e8-49c6-4fcf-bcad-5f2bed2bbfdf%22%7d>`_
+
+
+:Title: Recent improvements of the urban climate model TEB and development of reference models for its evaluation
+
+:Abstract: The urban climate model Town Energy Balance (TEB) has been developed since more than 20 years for the quantification of urban climate and the effect of climate change mitigation and adaptation measures at the mesoscale. It strongly simplifies the urban geometry but includes many physical processes like urban vegetation, hydrology, snow, and a building energy model. TEB has initially been developed as a single-layer urban canopy model, which means that it directly interacts with only the first level of the atmospheric model. The talk will focus on two recent developments of TEB to prepare for an application to a larger variety of urban morphologies and the hectometric resolution. The multi-layer coupling has been introduced to allow TEB to deal with high-rise buildings and a strong spatial heterogeneity of urban morphology. The coupling between TEB and the canopy radiation scheme SPARTACUS-Surface allows to replace the street-canyon geometry by a more robust geometrical assumption. Reference models able to explicitly resolve the urban geometry and to better capture the physical processes are developed to evaluate the mesoscale urban climate model. For turbulent processes, this is the obstacle-resolving version of the Meso-NH model, and for radiation a newly developed Monte-Carlo based model. Initial results from these models will be presented.
+
+
+
+:Speaker Bio: Robert Schoetter did his PhD at the Meteorological Institute of the University of Hamburg to investigate to which degree local urban adaptation measures are able to compensate for regional climate change. After the PhD he moved to CNRM, the research laboratory of the French meteorological service Météo-France. He first worked as a PostDoc in the MAPUCE project, during which the urban climate of about 40 French cities has been quantified with a mesoscale modelling approach. To achieve this goal, he integrated data on urban morphology, building construction materials, and human behaviour derived by project partners into a modelling framework based on the mesoscale atmospheric model Meso-NH and the urban climate model TEB. He also improved TEB to take into account a variety of human behaviour at grid-point-scale. Since 2018, he is a researcher in charge of improving TEB for future hectometric applications, e.g. by coupling it at multiple levels with the atmospheric model or improving the treatment of radiative transfer. Furthermore, he also coordinates the development of obstacle-resolving reference models to evaluate the mesoscale models.
