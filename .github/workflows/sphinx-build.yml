@@ -1,0 +1,13 @@
+on: [push]
+
+jobs:
+  build:
+    name: Push Sphinx Pages
+    runs-on: ubuntu-latest
+    steps:
+    - uses: seanzhengw/sphinx-pages@master
+      with:
+        github_token: ${{ secrets.PAT }}
+        create_readme: false
+        source_dir: source
+        install_extensions: true
