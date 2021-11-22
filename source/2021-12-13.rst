@@ -11,6 +11,14 @@
     .. - Room 1, U Reading
     .. - `Teams (online) <xxx>`_
 
+More about the talk
+====================
+
 :Title: TBD
 
 :Abstract: TBD
+
+
+More about the speaker
+========================
+:ResearchGate: `Xiaoxiong Xie <https://www.researchgate.net/profile/Xiaoxiong-Xie>`_
