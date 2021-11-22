@@ -1,0 +1,15 @@
+2021-11-15
+----------
+
+
+:Speaker: Dr Lewis Blunn (Met, U Reading)
+
+:Time: 9:30-10:30, 15th November 2021 (Monday)
+
+:Location: `Teams (online) <https://teams.microsoft.com/l/meetup-join/19%3ae6fedab7508a4fedbe9d9697d8e58b10%40thread.skype/1634634608126?context=%7b%22Tid%22%3a%224ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f%22%2c%22Oid%22%3a%22c5fe75e8-49c6-4fcf-bcad-5f2bed2bbfdf%22%7d>`_
+
+:Title:
+    A Model for Mean Winds in Vertically Heterogeneous Urban Canopies
+
+:Abstract:
+    Accurate representation of the exchange of momentum and scalars (e.g. temperature) between the surface and overlying atmosphere is crucial when modelling the urban environment. The urban surface influences the flow of air through several processes such as drag. Hence, in the roughness sublayer where air is directly affected by the surface, a constant-flux layer cannot be assumed and Monin-Obukhov similarity theory breaks down. It is becoming common in mesoscale meteorology models to represent the flow and scalar exchange using height-distributed drag models that predict the time- and horizontally space-averaged (double-averaged) flow and scalar exchange within the roughness sublayer. However, these models often make assumptions that are only valid in a vegetation canopy setting and typically treat the urban canopy as uniform height. I will present a model for the double-averaged flow in the roughness sublayer that has novel parametrisations of turbulence and drag, and is valid for vertically-heterogeneous urban canopies. The model is evaluated across various urban canopy geometries using large-eddy simulation data.
