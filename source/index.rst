@@ -7,12 +7,11 @@ UrbanMet Seminar Schedule
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 2021
 
 
    2021-12-13: Xiaoxiong Xie (Built Env., U Reading) <2021-12-13>
    2021-11-29: Dr Robert Schoetter (Meteo France) <2021-11-29>
    2021-11-15: Dr Lewis Blunn (Met, U Reading) <2021-11-15>
-
 
