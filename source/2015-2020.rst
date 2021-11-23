@@ -1,0 +1,49 @@
+Previous Schedule
+-----------------
+
+
+2020
+====
+
+.. csv-table::
+   :file: ./UrbanMet-Seminar-2020.csv
+   :header-rows: 1
+
+
+2019
+====
+
+.. csv-table::
+   :file: ./UrbanMet-Seminar-2019.csv
+   :header-rows: 1
+
+
+2018
+====
+
+.. csv-table::
+   :file: ./UrbanMet-Seminar-2018.csv
+   :header-rows: 1
+
+2017
+====
+
+.. csv-table::
+   :file: ./UrbanMet-Seminar-2017.csv
+   :header-rows: 1
+
+2016
+====
+
+.. csv-table::
+   :file: ./UrbanMet-Seminar-2016.csv
+   :header-rows: 1
+
+
+2015
+====
+
+.. csv-table::
+   :file: ./UrbanMet-Seminar-2015.csv
+   :header-rows: 1
+
