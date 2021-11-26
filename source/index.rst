@@ -15,11 +15,18 @@ UrbanMet Seminar Schedule
    2021-11-29: Dr Robert Schoetter (Meteo France) <2021-11-29>
    2021-11-15: Dr Lewis Blunn (Met, U Reading) <2021-11-15>
 
+
+
 .. toctree::
    :maxdepth: 1
    :caption: Prior to 2021
 
-   2015-2020 <2015-2020>
+   2020
+   2019
+   2018
+   2017
+   2016
+   2015
 
 
 

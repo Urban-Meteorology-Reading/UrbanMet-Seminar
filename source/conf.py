@@ -10,16 +10,31 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
+import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
+from datetime import datetime
+
+# determine if in RTD environment
+read_the_docs_build = os.environ.get("READTHEDOCS", None) == "True"
+
+
+if read_the_docs_build:
+    # normal build
+    # update `today`
+    dt_today = datetime.today()
+else:
+    # quick build for local testing
+    dt_today = datetime(2021, 11, 11)
+    # subprocess.call("doxygen", shell=True)
+    pass
 
 
 # -- Project information -----------------------------------------------------
 
 project = 'UrbanMet Seminar Schedule'
-copyright = '2021, Ting Sun'
-author = 'Ting Sun'
+author = 'Dr Ting Sun'
+copyright = f"2020 – {dt_today.year}, {author}"
 
 
 # -- General configuration ---------------------------------------------------
@@ -37,6 +52,13 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
+
+html_theme_options = {
+  "external_links": [
+      ("MS Teams channel", "https://teams.microsoft.com/l/channel/19%3ae6fedab7508a4fedbe9d9697d8e58b10%40thread.skype/UrbanMet%2520Seminar?groupId=49ea6e17-e862-45ca-acf4-60c62f863c3f&tenantId=4ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f"),
+      ("Sign up your talk!", "https://forms.office.com/pages/responsepage.aspx?id=xDv6T_zswEiQgPXkP_kOXxdu6kli6MpFrPRgxi-GPD9UOVIzNzREREREOE00RUlJWkQ3T1dPWlUyUiQlQCN0PWcu"),
+  ]
+}
 
 
 # -- Options for HTML output -------------------------------------------------
