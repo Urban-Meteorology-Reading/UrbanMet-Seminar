@@ -6,7 +6,7 @@
 
 :Time: 9:30-10:30, 13th December 2021 (Monday)
 
-:Location: TBD
+:Location: `Teams (online) <https://teams.microsoft.com/l/meetup-join/19%3ae6fedab7508a4fedbe9d9697d8e58b10%40thread.skype/1638190037882?context=%7b%22Tid%22%3a%224ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f%22%2c%22Oid%22%3a%22c5fe75e8-49c6-4fcf-bcad-5f2bed2bbfdf%22%7d>`_
 
     .. - Room 1, U Reading
     .. - `Teams (online) <xxx>`_
@@ -14,9 +14,9 @@
 More about the talk
 ====================
 
-:Title: TBD
+:Title: Impact of inter-building longwave radiative exchanges on building energy performance and indoor overheating 
 
-:Abstract: TBD
+:Abstract: Despite inter-building longwave radiative exchanges playing an important role in determining building energy and environmental performance, simulation tools (e.g. EnergyPlus) simplify this by assuming the surface temperature of surrounding buildings to be equal to the air temperature used to force the model, and therefore cause bias. Here we propose a ‘spin-up’ approach to update building external surface temperature using either air or the isolated building temperatures. Neighbourhoods with different plan area fraction of buildings (:math:`λ_P`) are analysed to assess the impact on building external surface temperatures, cooling and heating energy demand as well as indoor overheating degree hours. In this talk, I will present such impacts benefit from the updated approach. 
 
 
 More about the speaker
