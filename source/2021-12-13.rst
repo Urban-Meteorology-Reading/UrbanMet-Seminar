@@ -18,6 +18,7 @@ More about the talk
 
 :Abstract: Despite inter-building longwave radiative exchanges playing an important role in determining building energy and environmental performance, simulation tools (e.g. EnergyPlus) simplify this by assuming the surface temperature of surrounding buildings to be equal to the air temperature used to force the model, and therefore cause bias. Here we propose a ‘spin-up’ approach to update building external surface temperature using either air or the isolated building temperatures. Neighbourhoods with different plan area fraction of buildings (:math:`λ_P`) are analysed to assess the impact on building external surface temperatures, cooling and heating energy demand as well as indoor overheating degree hours. In this talk, I will present such impacts benefit from the updated approach. 
 
+:Related paper: `Impact of inter-building longwave radiative exchanges on building energy performance and indoor overheating <https://www.sciencedirect.com/science/article/pii/S0360132321010192>`_
 
 More about the speaker
 ========================
