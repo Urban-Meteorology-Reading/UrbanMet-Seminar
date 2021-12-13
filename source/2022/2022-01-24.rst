@@ -1,0 +1,25 @@
+2022-01-24
+----------
+
+
+:Speaker: Yiqing Liu (Built Env, U Reading)
+
+:Time: 9:30-10:30, 24th January 2022 (Monday)
+
+:Location: TBA
+
+    .. - Room 1, U Reading
+    .. - `Teams (online) <xxx>`_
+
+More about the talk
+====================
+
+:Title: TBA
+
+:Abstract: TBA
+
+.. :Related paper: TBA
+
+More about the speaker
+========================
+:ResearchGate: `Yiqing Liu <https://www.researchgate.net/profile/Yiqing-Liu-13>`_
