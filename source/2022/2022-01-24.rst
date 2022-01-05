@@ -6,7 +6,7 @@
 
 :Time: 9:30-10:30, 24th January 2022 (Monday)
 
-:Location: TBA
+:Location: `Teams (online) <https://teams.microsoft.com/l/meetup-join/19%3ae6fedab7508a4fedbe9d9697d8e58b10%40thread.skype/1641341062042?context=%7b%22Tid%22%3a%224ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f%22%2c%22Oid%22%3a%22c5fe75e8-49c6-4fcf-bcad-5f2bed2bbfdf%22%7d>`_
 
     .. - Room 1, U Reading
     .. - `Teams (online) <xxx>`_
