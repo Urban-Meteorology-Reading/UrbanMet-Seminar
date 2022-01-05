@@ -14,11 +14,11 @@
 More about the talk
 ====================
 
-:Title: TBA
+:Title: Revisiting the definition of anthropogenic heat flux from building: the role of human activities and building heat storage flux
 
-:Abstract: TBA
+:Abstract: Buildings are a major source of anthropogenic heat emissions, impacting energy use and human health in cities. The difference between building energy consumption and building anthropogenic heat emission magnitudes and time lag and are poorly quantified. Energy consumption (QEC) is a widely used proxy for the anthropogenic heat flux from buildings (QF,B). Here we revisit the latter’s definition. If QF,B is the heat emission to the outdoor environment from human activities within buildings, we can derive it from the changes in energy balance fluxes between occupied and unoccupied buildings. Our derivation shows the difference between QEC and QF,B is attributable to a change in the storage heat flux induced by human activities (∆So-uo) (i.e., QF,B = QEC − ∆So-uo). Using building energy simulations (EnergyPlus) we calculate the energy balance fluxes for a simplified isolated building (obtaining QF,B, QEC, ∆So-uo) with different occupancy states. The non-negligible differences in diurnal patterns between QF,B and QEC caused by thermal storage (e.g. hourly QF,B to QEC ratios vary between −2.72 and 5.13 within a year in Beijing, China). Negative QF,B can occur as human activities can reduce heat emission from building but are associated with a large storage heat flux. Building operations (e.g., open windows, use of HVAC system) modify the QF,B by affecting not only QEC but also the ∆So-uo diurnal profile. Air temperature and solar radiation are critical meteorological factors explaining day-to-day variability of QF,B. Our new approach could be used to provide data for future parameterisations of both anthropogenic heat flux and storage heat fluxes from buildings. It is evident that storage heat fluxes in cities may also be impacted by occupant behaviour.
 
-.. :Related paper: TBA
+:Related paper: `Revising the definition of anthropogenic heat flux from buildings: role of human activities and building storage heat flux <https://acp.copernicus.org/preprints/acp-2021-914/>`_
 
 More about the speaker
 ========================
