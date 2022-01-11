@@ -56,6 +56,7 @@ exclude_patterns = []
 html_theme_options = {
   "external_links": [
       ("MS Teams channel", "https://teams.microsoft.com/l/channel/19%3ae6fedab7508a4fedbe9d9697d8e58b10%40thread.skype/UrbanMet%2520Seminar?groupId=49ea6e17-e862-45ca-acf4-60c62f863c3f&tenantId=4ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f"),
+      ("UrbanMet mailing list", "https://www.lists.rdg.ac.uk/mailman/listinfo/met-urbanmet"),
       ("Sign up your talk!", "https://forms.office.com/pages/responsepage.aspx?id=xDv6T_zswEiQgPXkP_kOXxdu6kli6MpFrPRgxi-GPD9UOVIzNzREREREOE00RUlJWkQ3T1dPWlUyUiQlQCN0PWcu"),
   ]
 }

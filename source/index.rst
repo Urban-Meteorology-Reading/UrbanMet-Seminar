@@ -13,8 +13,8 @@ UrbanMet Seminar Schedule
    :maxdepth: 1
    :caption: 2022
 
-   2022-01-24: Yiqing Liu (Built Env., U Reading) <2022/2022-01-24>
-   2022-02-07: Xiaoxiong Xie (Built Env., U Reading) <2022/2022-02-07>
+   2022-01-21: Yiqing Liu (Built Env., U Reading) <2022/2022-01-21>
+   2022-02-04: Xiaoxiong Xie (Built Env., U Reading) <2022/2022-02-04>
 
 
 
