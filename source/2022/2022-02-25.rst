@@ -19,3 +19,16 @@ More about the talk
 :Abstract:  The presentation includes two parts of work. In part one, main findings in the EPSRC and NERC funded project 'InfruTreeCity' will be reported. The project aims to characterise infrared radiative performance of urban trees in the context of urban heat mitigation. As it is well-known, urban trees play an important role in mitigating urban heat stress and regulating urban microclimate thermal environment. However, tree radiative performance was oversimplified in conventional urban microclimate modelling and in the development of urban tree planting strategies. Understanding the ways in which tree species interact with solar radiation has previously focused on transmission and reflection of sunlight, typically by examining individual leaves. Here we will demonstrate how tree radiative performance at the crown level differs from leaf reflectance at the leaf level. We will reveal spatial distribution and temporal variation rules of urban tree radiative performance in terms of tree crown transflectance (comprehensive effect of reflection and transmission from tree crowns) by in-situ spectroscopy. Interspecific difference in tree radiative performance is identified as well. Tree crown surface albedo at typical solar altitudes across multiple tree species has been determined. The findings provide insights for into tree radiative shading effects resulting from temporal variation in tree crown surface albedo, with consequences for urban microclimate modelling and the development of urban heat mitigation strategies.
 
 In part two, a preliminary study on anthropogenic heat flux from ASHERAE archetype buildings (small office, restaurant) will be present in the urban context. Typical data profiles between anthropogenic heat flux from buildings and total building heat emissions will be distinguished.
+
+:Related papers: `In-situ spectroscopy and shortwave radiometry reveals spatial and temporal variation in the crown-level radiative performance of urban trees <https://www.sciencedirect.com/science/article/abs/pii/S0034425720306040>`_
+
+`Infrared radiative performance of urban trees: spatial distribution and interspecific comparison among ten species in the UK by in-situ spectroscopy. <https://www.sciencedirect.com/science/article/abs/pii/S0360132320300408?via%3Dihub>`_
+
+`Concept and methodology of characterising infrared radiative performance of urban trees using tree crown spectroscopy. <https://www.sciencedirect.com/science/article/abs/pii/S0360132319303087?via%3Dihub>`_
+
+
+
+
+
+
+
