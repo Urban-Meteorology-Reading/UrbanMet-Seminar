@@ -17,7 +17,7 @@ UrbanMet Seminar Schedule
    2022-02-04: Xiaoxiong Xie (Built Env., U Reading) <2022/2022-02-04>
    2022-02-25: Jie Deng (U Reading) <2022/2022-02-25>
    2022-03-11: Julia Fuchs <2022/2022-03-11>
-   2022-03-18: Lenna Jarvi <2022/2022-03-18>
+   2022-03-18: Leena Jarvi <2022/2022-03-18>
 
 
 
