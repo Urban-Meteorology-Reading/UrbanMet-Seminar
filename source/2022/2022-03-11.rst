@@ -11,4 +11,15 @@
 More about the talk
 ====================
 
-To be confirmed soon. 
+:Title: Satellite-based analyses of aerosol-cloud-land surface interactions
+
+:Abstract:  
+ As the role of clouds in the climate system is among the largest remaining uncertainties in climate science, a more complete understanding of cloud systems is required. The seminar gives an overview over past, ongoing and planned research that aims at a better understanding of the spatiotemporal patterns, drivers, and feedbacks of clouds. In the first study the effect of geophysical parameters on stratocumulus clouds in the Southeast Atlantic is shown based on machine learning, using a combination of satellite and reanalysis data as well as trajectory modelling of air-mass origins. The second study aims at improving an empirical satellite-based cloud masking approach for high-resolution analyses of land surface effects on boundary layer clouds. The observation of boundary layer clouds with high-resolution satellite data provides comprehensive insights into spatial patterns of land surface-driven modification of cloud occurrence, such as  the occurrence of fog holes attributed to the impact of the urban heat island over Paris. Within the planned project the identification of spatiotemporal patterns of boundary-layer cloud modifications over European urban areas will provide insights into the factors controlling the magnitude of the urban cloud modification. 
+
+
+:Related papers: 
+  - `Building a cloud in the southeast Atlantic: understanding low-cloud controls based on satellite observations with machine learning <https://acp.copernicus.org/articles/18/16537/2018/>`_
+
+  - `High-resolution satellite-based cloud detection for the analysis of land surface effects on boundary layer clouds <https://amt.copernicus.org/preprints/amt-2022-36/>`_
+
+
