@@ -2,7 +2,7 @@
 ----------
 
 
-:Speaker: Leena Jarvi (University of Helsinki)
+:Speaker: Prof Leena Jarvi (University of Helsinki)
 
 :Time: 9:30-10:30, 18th March 2022 (Friday)
 
@@ -11,4 +11,12 @@
 More about the talk
 ====================
 
-To be confirmed soon. 
+:Title: Meteorological observations and modelling supporting carbon neutrality aims of cities
+
+:Abstract:  
+Urban areas are major emitters of greenhouse gases with the most important being carbon dioxide (CO2). In the fight against the climate change, several cities seek methods in reducing their emissions, and maximizing sinks and storages to urban green areas. In order for cities to make most efficient decisions to reach carbon-neutrality or even carbon-negativity, science-based knowledge and solutions are needed. Micrometeorological observations can provide detailed information about the temporal and spatial variability of urban emissions and sinks needed for better understanding of urban emission dynamics and thus aid cities in their decision making. In this study, the power of the micrometeorological eddy covariance (EC) technique in identifying anthropogenic activities and emissions, and biogenic sinks will be demonstrated based on observations from three sites in Helsinki. Understanding of the biogenic carbon cycling will be supported by ecophysiological measurements from different urban vegetation types. In addition, urban land surface modelling will be used to upscale our understanding from the in-situ observations to neighborhood and city-scale, and to provide practical information for decision-makers on how to reduce carbon emissions and maximize carbon sinks in cities. 
+
+
+:Related papers: 
+  - `Spatial Modeling of Local-Scale Biogenic andAnthropogenic Carbon Dioxide Emissionsin Helsinki <https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JD029576/>`_
+
