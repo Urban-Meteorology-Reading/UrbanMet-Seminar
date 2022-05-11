@@ -1,0 +1,36 @@
+2022-03-11
+----------
+
+
+:Speaker: Dr. Utkarsh Bhautmage
+
+:Time: 9:30-10:30, 20th May 2022 (Friday)
+
+:Location: `Teams (online)
+
+More about the talk
+====================
+
+:Title: Incorporation of the Urban Thermal and Moisture Components into the PX-Land Surface Model (LSM) within the Mesoscale Weather Research and Forecasting (WRF) Model
+
+:Abstract:  
+In the mesoscale Weather Research and Forecasting (WRF) model, few urban modeling options
+exist such as Urban Canopy Model (UCM), Building Effect Parameterization (BEP), and Building
+Energy Model (BEM). These models have certain limitations as far as the choice of land surface
+models (LSM), planetary boundary layer (PBL) schemes, and computational expenses are
+concerned. The authors Dy et al., (2019) made an attempt to include the urban momentum drag
+effect for wind speed modeling by developing a new multilayer model with modifications to the
+non-local Asymmetric Convective Model version 2 (ACM2) PBL scheme. The urban-based ACM2
+(UACM) model has shown a significant improvement in wind speed reduction near to the urban
+ground surface along-with an inflection point in the vertical wind profile at roof level. In this study,
+urban thermal and moisture components are newly introduced in the PX-LSM combined with the
+UACM model. The urban street-level surface composition includes the impervious, vegetated, and
+bare ground fractions. The diurnal variation in street, walls and roof-surface temperatures is
+modelled using the two-layer force-restore algorithm. Simple radiation treatment is considered to
+account shadowing within the streets based on solar zenith angle and building morphology. Heat
+and moisture flux evolution is considered explicitly on all urban surfaces. The advantages of this
+novel UACM are simple formulation, more efficient execution, and its requirement for only a few
+fundamental urban morphological parameters. The upgraded model is tested with the both idealized
+and real case WRF simulations over the Pearl River Delta (PRD) region in Southern China. The
+evaluation demonstrated greatly improved wind and temperature predictions at the urban
+measurement sites compared to the base ACM2 model.
