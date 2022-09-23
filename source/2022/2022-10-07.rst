@@ -6,7 +6,7 @@
 
 :Time: 11:00-12:00, 7th October 2022 (Friday)
 
-:Location: `Teams (online) <>`_
+:Location: Room 1L43, Meteorolgy Building, or `Teams (online) <>`_
 
     .. - Room 1L43, U Reading
     .. - `Teams (online) <xxx>`_
