@@ -19,6 +19,8 @@ UrbanMet Seminar Schedule
    2022-03-11: Dr Julia Fuchs (Karlsruhe Institute of Technology) <2022/2022-03-11>
    2022-03-18: Prof Leena Jarvi (University of Helsinki) <2022/2022-03-18>
    2022-05-20: Dr Utkarsh Bhautmage (U Reading) <2022/2022-05-20>
+   2022-10-07: Dr Helen Ward (University of Innsbruck) <2022/2022-10-07>
+   
 
 
 

@@ -1,0 +1,28 @@
+2022-10-07
+----------
+
+
+:Speaker: Dr Helen Ward (University of Innsbruck)
+
+:Time: 11:00-12:00, 7th October 2022 (Friday)
+
+:Location: `Teams (online) <>`_
+
+    .. - Room 1L43, U Reading
+    .. - `Teams (online) <xxx>`_
+
+More about the talk
+====================
+
+:Title: Investigating urban climate and mountain weather in the Alpine city of Innsbruck
+
+:Abstract: The number of micrometeorological studies in urban areas has grown considerably in recent decades, motivated by the need to better understand the impact of the environment on our everyday lives and vice versa. Measurements of turbulence, the surface energy balance and pollutant exchange have been made across a range of locations and for different neighbourhood types (e.g. residential areas, city centres, industrial zones, urban parks). However, very few studies have investigated surface exchange in urban areas in hilly or mountainous regions.
+
+This study examines, for the first time, the combined effects of the urban surface, orographic setting and mountain weather on energy and mass exchange. Analysis of multi-year observations collected over the Alpine city of Innsbruck reveals several similarities with other city-centre sites (in mostly flat terrain) as well as some important differences. As for previous city-centre studies, the available energy in Innsbruck is partitioned mainly into sensible heat and heat stored in the urban fabric, while the latent heat flux is limited by the amount of vegetation and water available. Observed CO2 fluxes are attributed mainly to emissions from building heating in winter and traffic in summer. Annual total CO2 fluxes correspond well to emission estimates compiled from statistical inventory data for the study area and
+are similar to findings at other sites with a similar proportion of vegetation. However, interpretation of the observed data is complicated by Innsbruck’s location in a steep-sided valley which leads to characteristic daily and seasonal flow patterns. Under weak synoptic forcing, a typical valley-wind circulation is observed with moderate up-valley winds during summer daytime and weaker down-valley winds at night and in winter. Downslope windstorms (foehn) can dramatically affect temperature, wind speed, turbulence and air quality: increased wind speeds and turbulent mixing help to ventilate the city,
+while advection of warm, dry foehn air can lead to negative sensible heat fluxes both inside and outside the city (quite different to what is usually observed in city centres). The terrain also has an impact on radiative exchange, for example incoming shortwave radiation is blocked by the valley sides at low solar elevation angles. These examples highlight how the surrounding landscape impacts conditions in Innsbruck in multiple ways.
+
+The local- and mesoscale circulations that occur in mountainous regions also occur to some extent over less complex terrain (e.g. over hills or river valleys), as well as at considerable distances from the mountains. Similar types of circulations can also result from other kinds of topographical complexity, such as surface cover differences (e.g. cities along coastlines). Therefore, these results are widely relevant. Knowledge of how cities in complex landscapes are similar to and different from cities in ideal terrain is key to understanding interactions between the urban environment and the surroundings, and therefore for avoiding inadvertent harmful effects that can result from attempts to mitigate climate issues. 
+
+:Related paper: `Energy and mass exchange at an urban site in mountainous terrain – the Alpine city of Innsbruck <https://acp.copernicus.org/articles/22/6559/2022/>`_
+
