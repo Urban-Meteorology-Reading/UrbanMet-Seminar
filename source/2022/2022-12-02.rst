@@ -1,0 +1,24 @@
+2022-12-02
+----------
+
+
+:Speaker: Dr Vinod Kumar (Bureau of Meteorology, Australia)
+
+:Time: 11:00-12:00, 2nd December 2022 (Friday)
+
+:Location: Room 1L61, Meteorolgy Building, or Teams (online)
+
+    .. - Room 1L61, U Reading
+    .. - `Teams (online) <xxx>`_
+
+More about the talk
+====================
+
+:Title: Urban-scale modeling for the Paris Olympics research demonstration project.
+
+:Abstract: The 2024 Paris Olympics Research Demonstration Project (RDP) is a platform to bring international meteorological agencies and universities together to advance the research on future weather forecasting systems for urban areas and is supported by the World Meteorological Organization. The Bureau, in partnership with the Met Office, is developing an urban-scale modelling system centred over Paris for the RDP. The modelling system uses the Unified Model (UM) and its urban scheme, the Met Office Reading Urban Surface Exchange Scheme (MORUSES), at ~100m spatial resolution to study recent, historical, high impact weather events over Paris. This talk will give an overview of the Paris RDP and some of the specific modelling research questions that will be addressed. The present study will also discuss the development of the modelling system and the efforts to improve the simulations over urban areas by incorporating urban landcover fraction and morphology information derived from the Modélisation Appliquée et droit de l’Urbanisme: Climat urbain et Énergie (MApUCE) and European Space Agency's WorldCover datasets. We will discuss the analysis of the numerical simulations carried out for selected heatwave events over Paris. These heatwave cases are among the multiple high impact events selected for the model intercomparison exercise within the RDP. The introduction of the new information into the existing ancillaries is found to have a positive influence on the simulated screen level temperature. The comparison against observations shows a reduction in the warm screen temperature bias during night-time, evident in the experiment using the default urban parameters, for the simulations that uses updated ancillaries. However, the model screen-level in the simulations using updated ancillaries is found to be moister than the observations and the experiments using default ancillary information. This indicates that further improvements need to be made in the specification of land surface parameters as well as in the initial soil moisture conditions. The study will discuss some of the measures taken in this regard. The results highlight the importance of accurate urban surface and morphological information as well as soil moisture initial conditions for accurate estimation of near-surface fields.
+
+
+
+:Related paper: `Evaluation of the SPARTACUS-Urban Radiation Model for Vertically Resolved Shortwave Radiation in Urban Areas <https://link.springer.com/article/10.1007/s10546-022-00706-9>`_
+

@@ -1,0 +1,31 @@
+2022-11-18
+----------
+
+
+:Speaker: Meg Stretton (University of Reading)
+
+:Time: 11:00-12:00, 18th November 2022 (Friday)
+
+:Location: Room 1L43, Meteorolgy Building, or Teams (online)
+
+    .. - Room 1L43, U Reading
+    .. - `Teams (online) <xxx>`_
+
+More about the talk
+====================
+
+:Title: Evaluating the multi-layer SPARTACUS approach to modelling radiation in urban areas
+
+:Abstract:  High population densities in cities lead to large numbers of people being exposed to extreme weather events, such as heatwaves, which are predicted to increase in both frequency and intensity. As urban populations rise, such events pose an increasing threat to both public health and infrastructure. Therefore, there is an increasing need for higher accuracy and spatial resolution in urban weather forecasting, which will enable better prediction and mitigation of these extreme events.
+
+The complex urban structure impacts the interaction of cities with both shortwave and longwave radiation, trapping heat and influencing the surface energy balance. Therefore, both the 3D structure and radiation fluxes need to be modelled correctly. However, high computational costs constrain the representation of urban areas in numerical weather prediction (NWP) to models that are often single-layer, commonly representing the urban structure using an infinitely long street with buildings of equal height.
+
+This work examines whether multi-layer approaches to urban radiation modelling can bridge the gap between commonly used single-layer approaches, and explicit radiative transfer models that are too complex for use in NWP. Here, the multi-layer SPARTACUS-Urban model’s shortwave and longwave capabilities are evaluated against the explicit DART (Discrete Anisotropic Radiative Transfer) model, for real-world scenes in central London and Indianapolis. Further, the SPARTACUS-Urban approach is coupled with the SUEWS (Surface Urban Energy and Water balance Scheme) model. This new coupling approach is examined against the existing radiation scheme within SUEWS, and surface temperature observations in central London.
+
+Another limitation of the representation of urban areas within NWP is the lack of global data on the vertical structure of cities. Particularly, any vertically distributed modelling approaches require vertical profiles of urban geometry to use as inputs, which are unavailable globally. This talk also describes innovative parameterisations for both building cover and wall area, both used within SPARTACUS-Urban, and the impact of these parameterisations on the simulated bulk albedo and within-canopy shortwave absorptions.
+
+
+
+
+:Related paper: `Evaluation of the SPARTACUS-Urban Radiation Model for Vertically Resolved Shortwave Radiation in Urban Areas <https://link.springer.com/article/10.1007/s10546-022-00706-9>`_
+
