@@ -1,0 +1,28 @@
+2022-01-24
+----------
+
+
+:Speaker: Xiaoxiong Xie (Built Env, U Reading)
+
+:Time: 9:30-10:30, 3rd February 2023 (Friday)
+
+:Location: `Teams (online) <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmZjNGZjOTYtZDEzYi00NzBlLThkMjQtNDcwN2JlMmQwYTlk%40thread.v2/0?context=%7b%22Tid%22%3a%224ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f%22%2c%22Oid%22%3a%2219d24328-b767-4556-9d23-fda92a51edb8%22%7d>`_
+
+    .. - Room 1, U Reading
+    .. - `Teams (online) <xxx>`_
+
+More about the talk
+====================
+
+:Title: Assessing indoor overheating risks of urban buildings by combining building and urban-scale models
+
+:Abstract: Buildings in densely populated urban areas may be at higher risk of overheating due to the canopy layer urban heat island, especially in hot-humid climates like Sri Lanka when there is limited use of air-conditioners. Previous efforts to combine a building energy simulation (BES) tool with neighbourhood-scale urban-canopy models do not adequately account for all neighbourhood factors, notably the modelling of longwave radiation and natural ventilation with urbanised wind speeds are not well addressed. As a result, influences of urban neighbourhood characteristics are not well understood when using BES tools to assess the risk of indoor overheating.
+This study uses the urban land surface model, Surface Urban Energy and Water Balance Scheme (SUEWS), and BES tool EnergyPlus to assess the indoor overheating risk of neighbourhood buildings in urban areas. An iterative approach is proposed for EnergyPlus longwave radiation simulations. Up to 60 % difference in nocturnal overheating degree-hours is found compared to the default method, clearly demonstrating improvement. Modifications are made to wind pressure coefficients to improve the EnergyPlus natural ventilation calculation for urban buildings.
+The new method is applied in different multi-scale case studies. The natural ventilation potential is assessed in idealised neighbourhoods across Chinese climate zones, suggesting it is influenced by the combined effects of regional climate, neighbourhood-scale climate and time of the year.
+The spatial and temporal distribution of the population to heat exposure during a heatwave in Colombo, Sri Lanka are accounted for. Analyses undertaken for a typical Colombo dwelling in different neighbourhoods highlights the urban and neighbourhood influences on indoor overheating risks and mitigation measures.
+Findings of this work extend current understanding of influences of urban factors on indoor thermal environment. The methods, datasets, and models created in this thesis can be used in future research and to assist policy making.
+
+
+More about the speaker
+========================
+:ResearchGate: `https://www.researchgate.net/profile/Xiaoxiong-Xie>`_
