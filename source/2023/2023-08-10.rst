@@ -1,0 +1,24 @@
+2022-01-24
+----------
+
+
+:Speaker: Professor Guangheng Ni
+
+:Time: 9:30-10:30, 10th August 2023 (Friday)
+
+:Location: `Teams (online) <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzMxNzhlMzMtNWZhOC00ZDliLThhOGUtMzdjN2FjZDEzNzVj%40thread.v2/0?context=%7b%22Tid%22%3a%224ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f%22%2c%22Oid%22%3a%2219d24328-b767-4556-9d23-fda92a51edb8%22%7d>`_
+
+    .. - Room 1, U Reading
+    .. - `Teams (online) <xxx>`_
+
+More about the talk
+====================
+
+:Title: Rain nowcasting and hydrologic modeling using a machine learning approach
+
+:Abstract: Guangheng Ni received his B.S. in water resources engineering from Tsinghua University, Beijing, China, in 1985, his M.S. in hydraulics and river dynamics from Tsinghua University, Beijing, China, in 1988, and Ph.D. in hydrology and water resources from Tokyo University, Tokyo, Japan, in 1994. 
+
+He has been working with Tsinghua University, China, since 2002, first as an Associate Professor and then as a Professor. Before that he was in Civil Engineering and Eco-technology Consultants Co., Ltd., Japan, from 1994 to 1997, as an engineer, and Nippon Koei Co., Ltd., Japan, from 1997 to 2002, as a researcher. 
+
+His research interests include distributed hydrological modeling, urban hydrometeorology, transboundary waters, and basin water resources management. He is the author of more than 100 papers and several books.
+
